@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: radial-gradient( circle farthest-corner at 2.3% 23.2%,  rgb(93, 253, 0) 8.7%, rgb(112, 7, 122) 74.7% );
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#main {
+    height:70vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+    text-shadow: 5px 5px 20px rgba(0, 0, 0, 0.7);
+    font-size: 10vw;
+}
+
+  html {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: monospace;
+    line-height: 1.4;
+    font-size: 25px;
+  }
+  
+  input { 
+      border-radius: 15%;
+      background-color: yellowgreen;
+  }
+  
